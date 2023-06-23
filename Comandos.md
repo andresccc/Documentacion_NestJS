@@ -6,4 +6,10 @@
 
 #### npm run start:dev -> Levantar el servidor localmente
 
-## PROXIMAMENTE
+## CLONAR PROYECTO EXISTENTE
+
+#### git clone ..... -> Clonar un proyecto existente
+
+#### npm install -> Al clonar un proyecto debemos ejecutar el comando para instalar las dependencias
+
+####
