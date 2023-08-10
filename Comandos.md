@@ -24,11 +24,11 @@
 
 #####
 
-#### nest generate module ~ruta y nombre~ --flat -> Comando para crear el modulo
+#### nest generate module ./~ruta y nombre~ --flat -> Comando para crear el modulo
 
-#### nest generate controller ~ruta y nombre~ --flat -> Comando para crear el controlador, es recomendable primero crear el modulo
+#### nest generate controller ./~ruta y nombre~ --flat -> Comando para crear el controlador, es recomendable primero crear el modulo
 
-#### nest generate service ~ruta y nombre~ --flat -> Comando para crear el servicio, es recomendable primero crear lo anterior
+#### nest generate service ./~ruta y nombre~ --flat -> Comando para crear el servicio, es recomendable primero crear lo anterior
 
 #### 
 
